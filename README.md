@@ -24,10 +24,10 @@
 
 ### 🚀 Featured Projects
 
-#### 🪙 Thai Coin Detection AI
+#### Coin Detection AI
 A real-time object detection web application built to identify and calculate the total sum of Thai coins (10, 5, 2, 1, and 0.50 Baht) using a webcam. Features automatic data augmentation and a clean web UI for seamless streaming.
 **Tech Stack:** Python, YOLOv5, Flask, OpenCV, PyTorch.
-**Repository:** [Thai-coin-detection](https://github.com/Shiryx0242/Thai-coin-detection)
+**Repository:** [coin-detection](https://github.com/Shiryx0242/Thai-coin-detection)
 
 #### 👁️ Web IDS - Intrusion Detection System
 Developed a comprehensive Intrusion Detection System utilizing Python and Flask. Designed to detect and log potential attacks, integrated with a machine learning model for payload analysis, and implemented Discord webhook alerts for real-time notifications.
