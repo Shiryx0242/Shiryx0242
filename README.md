@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>Hi there, I'm Shiryx0242 👋</h1>
+  <h1>Hi there, I'm Witthawat 👋</h1>
   <p><b>A passionate developer</b></p>
 </div>
 
@@ -17,7 +17,7 @@
 ### 💻 Tech Stack
 
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=js,ts,html,css,react,nextjs,nodejs,tailwind,postgres,git,vite" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=js,ts,html,css,react,nextjs,nodejs,tailwind,postgres,git,vite,figma,postman" alt="Tech Stack" />
 </div>
 
 <br/>
