@@ -10,7 +10,7 @@
 - 🔭 I’m currently working on **Web IDS & Full-Stack Projects**
 - 🌱 I’m currently learning **Advanced Web Development, AI Integrations, and Security**
 - 👯 I’m looking to collaborate on **Open Source Projects**
-- 📫 How to reach me: **[Add your contact / email here]**
+- 📫 How to reach me: **[disconectx123@gmail.com]**
 
 <br/>
 
