@@ -18,13 +18,13 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Shiryx0242&show_icons=true&bg_color=111111&title_color=3b82f6&text_color=ffffff&icon_color=3b82f6&border_color=30363d" alt="Witthawat's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Shiryx0242&show_icons=true&bg_color=00000000&title_color=3b82f6&text_color=ffffff&icon_color=3b82f6&border_color=30363d" alt="Witthawat's GitHub Stats" />
 </p>
 
-### 🔥 Contribution Streak
+### 🐍 Contribution Activity
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shiryx0242&theme=dark&background=111111&ring=3b82f6&fire=3b82f6&currStreakNum=ffffff&currStreakLabel=3b82f6&sideNums=ffffff&sideLabels=ffffff&dates=8b949e&stroke=111111&hide_border=true" alt="Witthawat's GitHub Streak" />
+  <img src="https://raw.githubusercontent.com/Shiryx0242/Shiryx0242/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </p>
 
 <br/>
@@ -110,6 +110,8 @@
 </table>
 
 <br/>
+
+---
 
 ### 📂 Additional Projects
 
